@@ -4,7 +4,7 @@ public class Task1 {
     private Task1() {
     }
 
-    public static int minutesToSecond(String videoLength) {
+    public static int minutesToSeconds(String videoLength) {
         final int SECONDS_POSITION = 0;
         final int MINUTES_POSITION = 1;
         final int SECONDS_IN_MINUTE = 60;
